@@ -1,0 +1,44 @@
+li {
+  list-style: none;
+}
+h1 {
+  color: rgb(135, 135, 135);
+  display: block;
+  font-family: arial, sans-serif;
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 28.8 px;
+  text-align: left;
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+}
+
+.col-6 {
+  color: rgb(135, 135, 135);
+  display: block;
+  font-family: arial, sans-serif;
+  font-size: 16px;
+  text-align: left;
+}
+
+.weather-app {
+  border: 1px solid #dadde1;
+  padding: 25px;
+  margin: 20px;
+  max-width: 600px;
+  border-radius: 10px;
+}
+
+.temperature {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  font-weight: 400;
+}
+
+label,
+input {
+  display: block;
+}
